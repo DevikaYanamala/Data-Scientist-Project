@@ -1,0 +1,11 @@
+customer_id,churn_type,recommended_product,expected_conversion_rate
+1,High Value,Premium Savings Account,0.45
+2,Low Engagement,Mobile Banking App,0.30
+3,Recent Complaints,Personal Loan Offer,0.55
+4,Inactive,Re‑engagement Email Campaign,0.25
+5,High Value,Wealth Management Service,0.60
+6,Low Engagement,Digital Credit Card,0.35
+7,Recent Complaints,Fee Waiver on Existing account,0.40
+8,Inactive,Free Financial Wellness Webinar,0.20
+9,High Value,Investment Portfolio Review,0.50
+10,Low Engagement,Reward Points Boost,0.33
