@@ -378,7 +378,7 @@ bullet("Active participant in global initiatives promoting technical excellence,
 
 two_line_header(
     left_l1="Volunteer Module Representative",
-    right_l1="01/2026 – Present",
+    right_l1="05/2026",
     left_l2="Newcastle University",
     right_l2="Elected Student Leadership Role"
 )
