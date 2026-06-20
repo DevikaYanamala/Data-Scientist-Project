@@ -17,15 +17,15 @@ for section in doc.sections:
 
 FONT = 'Times New Roman'
 
-# Helper function to add a black horizontal rule under section headers
+# Helper function to add a grey horizontal rule under section headers
 def add_hrule(para):
     pPr = para._p.get_or_add_pPr()
     pBdr = OxmlElement('w:pBdr')
     bottom = OxmlElement('w:bottom')
     bottom.set(qn('w:val'), 'single')
-    bottom.set(qn('w:sz'), '6')  # Thickness
+    bottom.set(qn('w:sz'), '4')  # Slightly thinner thickness
     bottom.set(qn('w:space'), '2')
-    bottom.set(qn('w:color'), '000000')  # Pure black divider
+    bottom.set(qn('w:color'), '7F7F7F')  # Professional grey divider
     pBdr.append(bottom)
     pPr.append(pBdr)
 
