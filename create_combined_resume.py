@@ -341,7 +341,8 @@ two_line_header(
     left_l2="Newcastle University",
     right_l2="Newcastle upon Tyne, UK"
 )
-bullet("UK Coursework: Data Visualisation, Machine Learning, Statistical Foundations of Data Science, Deep Learning, Image Processing, Generative AI for Business, Advanced AI, Group Project.")
+bullet("**UK Coursework**: Data Visualisation, Machine Learning, Statistical Foundations of Data Science, Deep Learning, Image Processing, Generative AI for Business, Advanced AI, Group Project.")
+bullet("**Dissertation**: Towards the Modelling of Traffic Flows from Open-Source Data – An Assessment of Automated OSM Topological Verification for Machine Learning-Based AADT Prediction. Developing a python pipeline (OSMnx, NetworkX) to resolve topological errors and engineer graph-theoretic centrality features to improve Random Forest and XGBoost traffic prediction models.")
 
 two_line_header(
     left_l1="Bachelor of Technology",
