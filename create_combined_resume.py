@@ -350,7 +350,6 @@ two_line_header(
     left_l2="IIIT, RGUKT",
     right_l2="CGPA: 8.7/10 - RK Valley, India"
 )
-bullet("Relevant Coursework: Data Structures, Algorithms, Database Management Systems, Machine Learning Foundations.")
 
 
 # ── PROFESSIONAL CERTIFICATIONS ───────────────────────────────────────────────
