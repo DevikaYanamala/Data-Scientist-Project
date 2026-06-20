@@ -245,10 +245,12 @@ plain(
 
 # ── TECHNICAL EXPERTISE ───────────────────────────────────────────────────────
 section_header("Technical Expertise")
-bullet("**Analytics & Tools**: Excel (XLOOKUP, PivotTables, Power Query), Power BI (DAX, Star Schema, interactive dashboards), KPI Reporting & Dashboards, Tableau, Matplotlib, Seaborn, Exploratory Data Analysis (EDA).")
-bullet("**Data & Automation**: SQL (PostgreSQL, Snowflake), Python, ETL Data Pipelines, Data Validation & Auditing, exposure to enterprise data systems and SAP-based workflows.")
-bullet("**Operations Analytics**: Capacity & Resource Planning, Production Scheduling, Inventory Tracking, Data Collection, Bottleneck Identification, operational efficiency metrics.")
-bullet("**AI & Data Science**: Machine Learning (classification, regression, clustering), Predictive Modeling, XGBoost, Scikit-Learn, NLP (basic), exposure to generative AI/LLM tools and workflows, Statistical Analysis (hypothesis testing, time series, A/B testing).")
+bullet("**Programming Languages & Databases**: Python, SQL (PostgreSQL, Snowflake, MySQL, SQLite), R.")
+bullet("**Machine Learning & AI**: Supervised & Unsupervised Learning (Classification, Regression, Clustering), XGBoost, Scikit-Learn, SHAP (Explainable AI), NLP (spaCy, NLTK), LLM/Generative AI APIs (GPT-4, Gemini), Prompt Engineering.")
+bullet("**Data Engineering & Big Data**: ETL/ELT Pipelines, PySpark, Apache Kafka, Apache Spark, Data Warehousing, Data Validation & Auditing, API Integrations.")
+bullet("**Cloud & Infrastructure**: AWS (EC2, S3, Lambda), Git, Version Control, Docker (exposure).")
+bullet("**Business Intelligence & Analytics**: Power BI (Advanced DAX, Star Schema modeling, interactive dashboards), Excel (XLOOKUP, PivotTables, Power Query), Tableau, Matplotlib, Seaborn, Exploratory Data Analysis (EDA).")
+bullet("**Operations & Systems Analytics**: Capacity & Resource Planning, Production Scheduling, Inventory Tracking, Bottleneck Identification, Operational Efficiency Metrics.")
 
 
 # ── PROFESSIONAL EXPERIENCE ───────────────────────────────────────────────────
