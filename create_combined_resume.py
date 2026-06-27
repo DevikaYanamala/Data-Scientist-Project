@@ -277,10 +277,10 @@ bullet("Designed and automated interactive Power BI/Streamlit reporting dashboar
 bullet("Applied exploratory data analysis (EDA) and user segmentation to optimize pricing strategy, location-based store recommendations, and search features.")
 
 two_line_header(
-    left_l1="Data Analyst (Studentship)",
+    left_l1="Data Analyst",
     right_l1="01/2026 – Present",
     left_l2="Newcastle University",
-    right_l2="Part-Time Role - Newcastle upon Tyne, UK"
+    right_l2="Part-Time - Newcastle upon Tyne, UK"
 )
 bullet("Built robust Python ETL pipelines for automated data collection, cleaning, validation, and transformation, ensuring 100% data integrity for library services and occupancy analysis.")
 bullet("Developed comprehensive KPI dashboards using Power BI to monitor real-time department occupancy, supporting strategic operational decisions.")
