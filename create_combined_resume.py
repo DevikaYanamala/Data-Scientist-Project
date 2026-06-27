@@ -256,15 +256,6 @@ bullet("**Operations & Systems Analytics**: Capacity & Resource Planning, Produc
 # ── PROFESSIONAL EXPERIENCE ───────────────────────────────────────────────────
 section_header("Professional Experience")
 
-two_line_header(
-    left_l1="Global Industry Project – Industry Consulting Experience",
-    right_l1="June 2026 – July 2026",
-    left_l2="Newcastle University",
-    right_l2="Industry Partner Project - Newcastle, UK"
-)
-bullet("Selected for a competitive, high-impact industry consulting program solving complex operational challenges for a UK industry partner.")
-bullet("Collaborated in a team of data scientists to interrogate and analyze historical operational data, identifying critical process bottlenecks.")
-bullet("Presented findings and recommendations to stakeholders, focusing on problem-solving and business impact.")
 
 two_line_header(
     left_l1="Data Analyst – Product Analytics",
