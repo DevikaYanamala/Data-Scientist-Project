@@ -257,7 +257,7 @@ bullet("**Operations & Systems Analytics**: Capacity & Resource Planning, Produc
 section_header("Professional Experience")
 
 two_line_header(
-    left_l1="Global Industry Project – Industry Consulting Experience",
+    left_l1="Global Industry Project",
     right_l1="June 2026 – July 2026",
     left_l2="Newcastle University",
     right_l2="Industry Partner Project - Newcastle, UK"
